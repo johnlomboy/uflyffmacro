@@ -1,0 +1,27 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20220721T174938",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Z",
+            "Timestamp": 557
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Z",
+            "Timestamp": 699
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": ""
+}

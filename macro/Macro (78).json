@@ -1,0 +1,45 @@
+{
+    "Acceleration": 2,
+    "CreationTime": "20220721T010846",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 832,
+            "X": 77.37999725341797,
+            "Y": 69.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 926,
+            "X": 77.2699966430664,
+            "Y": 69.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 933,
+            "X": 77.16999816894531,
+            "Y": 69.5199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 935,
+            "X": 77.16999816894531,
+            "Y": 69.5199966430664
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "UntilStopped",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "Ctrl + 5"
+}

@@ -1,0 +1,66 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20220827T141819",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 711,
+            "X": 91.08999633789062,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 751,
+            "X": 91.18000030517578,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 758,
+            "X": 91.27999877929688,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 775,
+            "X": 91.37000274658203,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 817,
+            "X": 91.37000274658203,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 979,
+            "X": 91.27999877929688,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1111,
+            "X": 91.27999877929688,
+            "Y": 77.8499984741211
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "Ctrl + 9"
+}

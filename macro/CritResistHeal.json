@@ -1,0 +1,2222 @@
+{
+    "Acceleration": 1.5,
+    "CreationTime": "20220827T141202",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 723,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 812,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 880,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 927,
+            "X": 92.62000274658203,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 942,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 979,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1045,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1124,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1193,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1278,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1367,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1441,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1536,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1616,
+            "X": 92.72000122070312,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1722,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1796,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 1897,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1985,
+            "X": 92.5199966430664,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2085,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 2102,
+            "X": 92.23999786376953,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2158,
+            "X": 92.23999786376953,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2255,
+            "X": 92.04000091552734,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2329,
+            "X": 92.04000091552734,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 2668,
+            "X": 88.5,
+            "Y": 83.47000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 2768,
+            "X": 88.5,
+            "Y": 83.47000122070312
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3003,
+            "X": 91.56999969482422,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 3004,
+            "X": 91.66000366210938,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 3036,
+            "X": 91.76000213623047,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3099,
+            "X": 91.76000213623047,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3205,
+            "X": 91.76000213623047,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 3253,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3284,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3375,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3456,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3551,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3633,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3712,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3780,
+            "X": 91.8499984741211,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4113,
+            "X": 87.05999755859375,
+            "Y": 67.45999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4163,
+            "X": 87.16000366210938,
+            "Y": 67.45999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4164,
+            "X": 87.16000366210938,
+            "Y": 67.62999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4165,
+            "X": 87.26000213623047,
+            "Y": 67.62999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4176,
+            "X": 87.3499984741211,
+            "Y": 67.62999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4182,
+            "X": 87.44999694824219,
+            "Y": 67.62999725341797
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4205,
+            "X": 87.44999694824219,
+            "Y": 67.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 4218,
+            "X": 87.54000091552734,
+            "Y": 67.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4222,
+            "X": 87.54000091552734,
+            "Y": 67.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 4542,
+            "X": 87.54000091552734,
+            "Y": 67.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 4632,
+            "X": 87.54000091552734,
+            "Y": 67.80000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5079,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 5137,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5179,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5255,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5345,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5422,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5521,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5610,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5692,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5781,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 5865,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 5932,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 6036,
+            "X": 92.13999938964844,
+            "Y": 77.8499984741211
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 6471,
+            "X": 88.5999984741211,
+            "Y": 83.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 6525,
+            "X": 88.69000244140625,
+            "Y": 83.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 6558,
+            "X": 88.69000244140625,
+            "Y": 83.9800033569336
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7043,
+            "X": 92.13999938964844,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7107,
+            "X": 92.13999938964844,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7202,
+            "X": 92.13999938964844,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7264,
+            "X": 92.13999938964844,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7342,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7433,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7505,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7595,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7663,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7745,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7832,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 7916,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 7989,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8059,
+            "X": 92.04000091552734,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8355,
+            "X": 96.06999969482422,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8414,
+            "X": 96.06999969482422,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8563,
+            "X": 96.06999969482422,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 8567,
+            "X": 96.16000366210938,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 8580,
+            "X": 96.26000213623047,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8659,
+            "X": 96.26000213623047,
+            "Y": 77.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 8738,
+            "X": 96.26000213623047,
+            "Y": 77.68000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 8785,
+            "X": 96.26000213623047,
+            "Y": 77.68000030517578
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9348,
+            "X": 91.18000030517578,
+            "Y": 80.73999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 9423,
+            "X": 91.18000030517578,
+            "Y": 80.73999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9581,
+            "X": 91.18000030517578,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 9677,
+            "X": 91.18000030517578,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9761,
+            "X": 91.18000030517578,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 9785,
+            "X": 91.27999877929688,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 9834,
+            "X": 91.27999877929688,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 9929,
+            "X": 91.27999877929688,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 9973,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 10011,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 10101,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 10181,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 10268,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 10349,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 10426,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 10514,
+            "X": 91.37000274658203,
+            "Y": 79.20999908447266
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 10836,
+            "X": 87.44999694824219,
+            "Y": 85
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 10921,
+            "X": 87.44999694824219,
+            "Y": 85
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11334,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11437,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11534,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11629,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11726,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 11831,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 11924,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12028,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 12139,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12231,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 12342,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12445,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 12535,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12626,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 12708,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 12775,
+            "X": 92.33000183105469,
+            "Y": 79.04000091552734
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13095,
+            "X": 88.12000274658203,
+            "Y": 84.66000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 13187,
+            "X": 88.12000274658203,
+            "Y": 84.66000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13384,
+            "X": 91.18000030517578,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 13405,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 13486,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13577,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 13666,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13749,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 13854,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 13936,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14035,
+            "X": 91.27999877929688,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14125,
+            "X": 91.37000274658203,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14214,
+            "X": 91.37000274658203,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14309,
+            "X": 91.37000274658203,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14317,
+            "X": 91.47000122070312,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14327,
+            "X": 91.56999969482422,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 14348,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14413,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14505,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14598,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14694,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14798,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 14891,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 14987,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 15077,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 15175,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 15261,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 15368,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 15435,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 15525,
+            "X": 91.66000366210938,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 15873,
+            "X": 88.12000274658203,
+            "Y": 84.31999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 15967,
+            "X": 88.12000274658203,
+            "Y": 84.31999969482422
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 16285,
+            "X": 91.56999969482422,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 16383,
+            "X": 91.56999969482422,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 16476,
+            "X": 91.56999969482422,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 16572,
+            "X": 91.56999969482422,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 16667,
+            "X": 91.56999969482422,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 16720,
+            "X": 91.66000366210938,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 16765,
+            "X": 91.66000366210938,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 16869,
+            "X": 91.66000366210938,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 16974,
+            "X": 91.66000366210938,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17068,
+            "X": 91.66000366210938,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 17105,
+            "X": 91.76000213623047,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 17115,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17174,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17275,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17379,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17470,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17579,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17670,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17786,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 17854,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 17965,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 18045,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 18137,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 18205,
+            "X": 91.8499984741211,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 18290,
+            "X": 91.76000213623047,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 18294,
+            "X": 91.76000213623047,
+            "Y": 78.0199966430664
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 18620,
+            "X": 87.93000030517578,
+            "Y": 84.66000366210938
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 18638,
+            "X": 87.93000030517578,
+            "Y": 84.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 18707,
+            "X": 87.93000030517578,
+            "Y": 84.83000183105469
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19001,
+            "X": 91.8499984741211,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 19003,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19119,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19205,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19311,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19403,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19507,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19603,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19704,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19792,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 19900,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 19992,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20105,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 20205,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20306,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 20398,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20502,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 20583,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20678,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 20751,
+            "X": 91.94999694824219,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 20797,
+            "X": 92.04000091552734,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 20854,
+            "X": 92.04000091552734,
+            "Y": 78.87000274658203
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21247,
+            "X": 88.5,
+            "Y": 85.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21333,
+            "X": 88.5,
+            "Y": 85.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21603,
+            "X": 91.76000213623047,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 21610,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21715,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21809,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 21909,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 21997,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22098,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22187,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22295,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22387,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22497,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22594,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22689,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 22803,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 22895,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23002,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23099,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23198,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23287,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23347,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23439,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 23791,
+            "X": 88.69000244140625,
+            "Y": 84.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 23895,
+            "X": 88.69000244140625,
+            "Y": 84.48999786376953
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24162,
+            "X": 92.04000091552734,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 24187,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24272,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24370,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 24424,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24475,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24571,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24679,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24768,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 24881,
+            "X": 92.23999786376953,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 24979,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25093,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25196,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25296,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25389,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25502,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25595,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25702,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25789,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 25869,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 25952,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 26031,
+            "X": 92.13999938964844,
+            "Y": 78.19000244140625
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 26394,
+            "X": 88.12000274658203,
+            "Y": 85.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 26481,
+            "X": 88.12000274658203,
+            "Y": 85.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 26768,
+            "X": 91.56999969482422,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 26771,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 26867,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 26961,
+            "X": 91.66000366210938,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 27013,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27078,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27179,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27296,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27390,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27506,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27589,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27682,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27766,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 27872,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 27962,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 28067,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 28156,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 28255,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 28346,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 28465,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 28553,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 28644,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 28699,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 28796,
+            "X": 91.76000213623047,
+            "Y": 78.52999877929688
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 29214,
+            "X": 88.4000015258789,
+            "Y": 85.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 29224,
+            "X": 88.4000015258789,
+            "Y": 85.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 29259,
+            "X": 88.4000015258789,
+            "Y": 85.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 29309,
+            "X": 88.4000015258789,
+            "Y": 85.51000213623047
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 29552,
+            "X": 91.27999877929688,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 29653,
+            "X": 91.27999877929688,
+            "Y": 78.69999694824219
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 29752,
+            "X": 91.37000274658203,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 29794,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 29850,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 29937,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 30049,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 30137,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 30254,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 30348,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 30459,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 30551,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 30671,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 30755,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 30851,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 30932,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 31027,
+            "X": 91.47000122070312,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 31108,
+            "X": 91.37000274658203,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 31198,
+            "X": 91.37000274658203,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 31501,
+            "X": 87.63999938964844,
+            "Y": 85.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 31509,
+            "X": 87.54000091552734,
+            "Y": 85.16999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 31531,
+            "X": 87.54000091552734,
+            "Y": 85.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 31598,
+            "X": 87.54000091552734,
+            "Y": 85.33999633789062
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 31813,
+            "X": 91.56999969482422,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 31843,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 31896,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 31978,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 32070,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 32153,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 32245,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 32328,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 32432,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 32475,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 32551,
+            "X": 91.66000366210938,
+            "Y": 78.36000061035156
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "Ctrl + 3"
+}

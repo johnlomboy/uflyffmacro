@@ -1,0 +1,55 @@
+{
+    "Acceleration": 1,
+    "CreationTime": "20220831T150928",
+    "DoNotShowWindowOnFinish": false,
+    "Events": [
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 821,
+            "X": 3.8499999046325684,
+            "Y": 36.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 915,
+            "X": 3.8499999046325684,
+            "Y": 36.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 976,
+            "X": 3.8499999046325684,
+            "Y": 36.41999816894531
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 1083,
+            "X": 3.8499999046325684,
+            "Y": 36.41999816894531
+        },
+        {
+            "EventType": "KeyDown",
+            "KeyName": "Z",
+            "Timestamp": 1372
+        },
+        {
+            "EventType": "KeyUp",
+            "KeyName": "Z",
+            "Timestamp": 1489
+        }
+    ],
+    "LoopDuration": 0,
+    "LoopInterval": 0,
+    "LoopIterations": 1,
+    "LoopType": "TillLoopNumber",
+    "MacroSchemaVersion": 3,
+    "MergeConfigurations": [
+    ],
+    "RestartPlayer": false,
+    "RestartPlayerAfterMinutes": 60,
+    "Shortcut": "Alt + 5"
+}
