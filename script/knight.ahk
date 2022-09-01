@@ -73,16 +73,17 @@ Return
 
 *F3::
 {
-	if toggle = 0
-	{
-		if WinExist(zoldykBluestacks)
+
+	if WinExist(zoldykBluestacks)
 		{	
 			ControlSend,, {LCtrl Down}{3}{LCtrl Up}, ahk_pid %zoldykPID%
 		}
-                if WinExist(mercBluestacks)
+        if WinExist(mercBluestacks)
 		{	
 			ControlSend,, {LAlt Down}{1}{LAlt Up}, ahk_pid %mercPID%
 		}
+	if toggle = 0
+	{
 		if WinExist(gubaBrowser)
 		{
 			toggle := !toggle
