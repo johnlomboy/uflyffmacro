@@ -12,9 +12,9 @@ toggle3 = 0
 
 mp_counter = 0
 bluestacks := "BlueStacks App Player ahk_exe HD-Player.exe"
-zoldykBluestacks := "BlueStacks App Player"
+zoldykBluestacks := "Zoldyck"
 zoldykPID := "27192"
-mercBluestacks := "BlueStacks App Player 1"
+mercBluestacks := "Mercenary"
 mercPID := "26480"
 
 Gui, New
