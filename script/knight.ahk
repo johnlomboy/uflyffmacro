@@ -11,18 +11,30 @@ toggle2 = 0
 toggle3 = 0
 
 mp_counter = 0
-gubaBrowser := "Flyff Universe - Brave"
 bluestacks := "BlueStacks App Player ahk_exe HD-Player.exe"
-zoldykBluestacks := "Zoldyck"
-zoldykPID := "8612"
-mercBluestacks := "Mercenary"
-mercPID := "2860"
+zoldykBluestacks := "BlueStacks App Player"
+zoldykPID := "27192"
+mercBluestacks := "BlueStacks App Player 1"
+mercPID := "26480"
+
+Gui, New
+Gui, Add, Text,, zoldykPID
+Gui, Add, Edit, vzoldykPID w100, % zoldykPID
+Gui, Add, Text,, mercPID
+Gui, Add, Edit, vmercPID w100, % mercPID
+Gui, Add, Button, Default gOK, OK
+Gui, Show, w200
+return
+OK:
+Gui, Submit
+return
+
 
 attack_loop:
 {
 	ifEqual, toggle, 1
 	{
-		ControlSend,, 3, %gubaBrowser%
+		ControlSend,, 3, Flyff Universe - Google Chrome
 	}
 	Return
 }
@@ -73,18 +85,18 @@ Return
 
 *F3::
 {
-
-	if WinExist(zoldykBluestacks)
+if WinExist(zoldykBluestacks)
 		{	
 			ControlSend,, {LCtrl Down}{3}{LCtrl Up}, ahk_pid %zoldykPID%
 		}
-        if WinExist(mercBluestacks)
+                if WinExist(mercBluestacks)
 		{	
 			ControlSend,, {LAlt Down}{1}{LAlt Up}, ahk_pid %mercPID%
 		}
 	if toggle = 0
 	{
-		if WinExist(gubaBrowser)
+		
+		if WinExist("Flyff Universe - Google Chrome")
 		{
 			toggle := !toggle
 		}
@@ -96,7 +108,7 @@ Return
 		;{	
 		;	ControlSend,, {LCtrl Down}{2}{LCtrl Up}, %zoldykPID%
 		;}
-		if WinExist(gubaBrowser)
+		if WinExist("Flyff Universe - Google Chrome")
 		{
 			toggle := !toggle
 		}
@@ -173,4 +185,24 @@ Return
 		}
 ControlSend,, 3, Flyff Universe - Google Chrome
 Return
+}
+
+4::
+{
+
+	ifEqual, toggle, 1
+	{
+		toggle := !toggle
+
+           	Loop, 5
+           	{
+            	ControlSend,, 4, Flyff Universe - Google Chrome
+   		Sleep, 100
+         	}
+		
+		toggle := !toggle
+		
+	}
+	ControlSend,, 4, Flyff Universe - Google Chrome
+	Return
 }
