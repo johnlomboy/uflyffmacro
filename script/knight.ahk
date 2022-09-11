@@ -17,16 +17,28 @@ zoldykPID := "27192"
 mercBluestacks := "Mercenary"
 mercPID := "26480"
 
+WinGet, zoldykPID, PID, %zoldykBluestacks%
+WinGet, mercPID, PID, %mercBluestacks%
+
 Gui, New
 Gui, Add, Text,, zoldykPID
 Gui, Add, Edit, vzoldykPID w100, % zoldykPID
 Gui, Add, Text,, mercPID
 Gui, Add, Edit, vmercPID w100, % mercPID
+Gui, Add, Button, gAutoSetPID, Auto Set PID
 Gui, Add, Button, Default gOK, OK
 Gui, Show, w200
 return
 OK:
 Gui, Submit
+return
+
+AutoSetPID:
+WinGet, zoldykPID, PID, %zoldykBluestacks%
+WinGet, mercPID, PID, %mercBluestacks%
+MsgBox, PID updated!
+GuiControl,,mercPID, %mercPID%
+GuiControl,,zoldykPID, %zoldykPID%
 return
 
 
