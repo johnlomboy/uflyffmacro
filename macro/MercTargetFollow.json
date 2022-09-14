@@ -1,45 +1,56 @@
 {
     "Acceleration": 1,
-    "CreationTime": "20220831T150928",
+    "CreationTime": "20220914T144516",
     "DoNotShowWindowOnFinish": false,
     "Events": [
         {
             "Delta": 0,
             "EventType": "MouseDown",
-            "Timestamp": 821,
-            "X": 3.8499999046325684,
-            "Y": 36.41999816894531
+            "Timestamp": 864,
+            "X": 96.81999969482422,
+            "Y": 77.7699966430664
         },
         {
             "Delta": 0,
             "EventType": "MouseUp",
-            "Timestamp": 915,
-            "X": 3.8499999046325684,
-            "Y": 36.41999816894531
+            "Timestamp": 960,
+            "X": 96.81999969482422,
+            "Y": 77.7699966430664
         },
         {
             "Delta": 0,
             "EventType": "MouseDown",
-            "Timestamp": 976,
-            "X": 3.8499999046325684,
-            "Y": 36.41999816894531
+            "Timestamp": 2207,
+            "X": 3.5999999046325684,
+            "Y": 35.59000015258789
         },
         {
             "Delta": 0,
             "EventType": "MouseUp",
-            "Timestamp": 1083,
-            "X": 3.8499999046325684,
-            "Y": 36.41999816894531
+            "Timestamp": 2305,
+            "X": 3.5999999046325684,
+            "Y": 35.59000015258789
         },
         {
-            "EventType": "KeyDown",
-            "KeyName": "Z",
-            "Timestamp": 1372
+            "Delta": 0,
+            "EventType": "MouseDown",
+            "Timestamp": 3181,
+            "X": 14.930000305175781,
+            "Y": 69.30000305175781
         },
         {
-            "EventType": "KeyUp",
-            "KeyName": "Z",
-            "Timestamp": 1489
+            "Delta": 0,
+            "EventType": "MouseMove",
+            "Timestamp": 3187,
+            "X": 14.829999923706055,
+            "Y": 69.30000305175781
+        },
+        {
+            "Delta": 0,
+            "EventType": "MouseUp",
+            "Timestamp": 3258,
+            "X": 14.829999923706055,
+            "Y": 69.30000305175781
         }
     ],
     "LoopDuration": 0,

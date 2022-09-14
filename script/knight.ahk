@@ -218,3 +218,16 @@ Return
 	ControlSend,, 4, Flyff Universe - Google Chrome
 	Return
 }
+
+*F9::
+{
+	if WinExist(zoldykBluestacks)
+		{	
+			ControlSend,, {LCtrl Down}{8}{LCtrl Up}, ahk_pid %zoldykPID%
+		}
+        if WinExist(mercBluestacks)
+		{	
+			ControlSend,, {LAlt Down}{8}{LAlt Up}, ahk_pid %mercPID%
+		}
+Return
+}
